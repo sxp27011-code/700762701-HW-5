@@ -1,6 +1,6 @@
 # 700762701-HW-5
 # Attentionproject
-Rahul kuduru 700763240
+SREE RAM CHARAN TEJA PUDARI 700762701
 This file contains both readme files for question1&question2
 ## **📌 Project Overview**
 
